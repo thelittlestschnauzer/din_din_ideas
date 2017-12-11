@@ -1,0 +1,3 @@
+class DinDinIdeas::Scraper
+  
+end
