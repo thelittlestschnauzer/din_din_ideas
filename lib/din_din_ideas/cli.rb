@@ -1,0 +1,4 @@
+class DinDinIdeas::CLI
+
+
+end
